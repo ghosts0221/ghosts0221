@@ -13,4 +13,4 @@ Python-focused intern candidate for **backend / API / data** tasks, with interes
 
 ### Contact
 - Email: cossin0221@outlook.com
-- LinkedIn: <paste your link here>
+- LinkedIn: www.linkedin.com/in/shen-chen-5b3517298
