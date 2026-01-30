@@ -1,23 +1,16 @@
-## Hi there 👋
-
-**ghosts0221/ghosts0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Shen Chen (ghosts0221)
 
-I’m a London-based student focusing on **Backend & Data Engineering** with **Python/FastAPI**, interested in **HealthTech** and responsible data handling.
+Python-focused intern candidate for **backend / API / data** tasks, with interest in **HealthTech** and responsible data handling. Based in London.
 
-- 🔧 Tech: Python, FastAPI, REST, JSON, SQL (SQLite/MySQL), Git, GitHub Actions
-- 🎯 Seeking: Part-time internship (2–3 days/week), backend/API/data tasks
-- 📍 Location: London, UK
+**Core skills:** Python · FastAPI · REST · JSON · SQL (SQLite/MySQL) · Git · GitHub Actions
 
-### Featured Projects
-- **med-api-starter (FastAPI)** — REST API + SQLite CRUD + tests + CI  
-  https://github.com/ghosts0221/med-api-starter
+### Projects
+- **[med-api-starter](https://github.com/ghosts0221/med-api-starter)** — FastAPI REST API + SQLite CRUD + tests + CI (in progress)
+- **[cscloudmedia](https://github.com/ghosts0221/cscloudmedia)** — Undergraduate coursework (Vue + CI/pipeline configs). Not maintained.
 
-- **cscloudmedia** — Vue-based project with CI/pipeline config (docs in progress)  
-  https://github.com/ghosts0221/cscloudmedia
-
+### Availability
+- Part-time internship: 2–3 days/week (remote)
 
 ### Contact
 - Email: cossin0221@outlook.com
-- LinkedIn: YOUR_LINK
+- LinkedIn: <paste your link here>
