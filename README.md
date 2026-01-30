@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **ghosts0221/ghosts0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Shen Chen (ghosts0221)
@@ -22,4 +21,3 @@ I’m a London-based student focusing on **Backend & Data Engineering** with **P
 ### Contact
 - Email: cossin0221@outlook.com
 - LinkedIn: YOUR_LINK
--->
